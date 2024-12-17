@@ -2,6 +2,8 @@
 name = "rig-twitter"
 version = "0.1.0"
 edition = "2021"
+description = "A Rust library for scraping Twitter without using the Twitter API."
+license = "Apache-2.0"
 
 
 [dependencies]
